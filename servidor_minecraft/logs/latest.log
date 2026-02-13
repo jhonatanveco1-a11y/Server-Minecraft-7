@@ -1,0 +1,92 @@
+[00:00:13] [Netty Epoll Server IO #6/INFO]: [STDOUT]: {"pandalib:pandalib_config#debugging.0": false, "pandalib:pandalib_config#configHotReloadDelay.1": 1000, "pandalib:pandalib_config#enableConfigHotReload.2": false}
+[00:00:13] [Netty Epoll Server IO #6/INFO]: [STDOUT]: {"fallingtrees:client#miningShould.0": CHOP_TREE, "fallingtrees:client#miningWhileCrouchingShould.1": MINE_SINGLE_BLOCK}
+[00:00:15] [Server thread/INFO]: SR_PYCHON[/127.39.82.27:59461] logged in with entity id 19002 at (-5.5, 70.0, -5.5)
+[00:00:15] [Server thread/INFO]: SR_PYCHON <Overworld> joined the game
+[00:00:15] [Server thread/INFO]: Gave 'Hamster Tips' guide book to player SR_PYCHON.
+[00:00:24] [Server thread/INFO]: [Qirell <Overworld>: Teleported SR_PYCHON <Overworld> to Qirell <Overworld>]
+[00:00:40] [Server thread/INFO]: SR_PYCHON <Overworld> has completed the challenge [Cover Me in Debris]
+[00:01:18] [Server thread/INFO]: Qirell <Overworld> has made the advancement [Walking on Thin Ice]
+[00:01:19] [Server thread/INFO]: Qirell <Overworld> has made the advancement [Not Too Hot to Handle]
+[00:01:20] [Server thread/INFO]: Qirell <Overworld> has made the advancement [Blast Protection Not Included]
+[00:01:21] [Server thread/INFO]: Qirell <Overworld> has made the advancement [The Ire in Fire]
+[00:01:24] [Server thread/INFO]: Whoami_02 <Overworld> has made the advancement [Walking on Thin Ice]
+[00:01:40] [Server thread/INFO]: SR_PYCHON <Overworld> has made the advancement [Walking on Thin Ice]
+[00:01:46] [Server thread/INFO]: Qirell <Overworld> has made the advancement [Is this thing alive?]
+[00:01:49] [Server thread/INFO]: SR_PYCHON <Overworld> has made the advancement [Oh My Blood!]
+[00:02:03] [Server thread/INFO]: Qirell <Overworld> has made the advancement [It Comes Back, Right?]
+[00:02:13] [Server thread/INFO]: SR_PYCHON <Overworld> has made the advancement [It Comes Back, Right?]
+[00:02:44] [Server thread/INFO]: [Qirell <Overworld>: Changed the block at 22486, -51, 2829]
+[00:03:31] [Server thread/INFO]: SR_PYCHON <The End> has made the advancement [The End?]
+[00:03:31] [Server thread/INFO]: Whoami_02 <The End> has made the advancement [The End?]
+[00:03:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2345ms or 46 ticks behind
+[00:03:32] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[00:03:32] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
+[00:03:32] [Server thread/INFO]: Qirell <The End> has made the advancement [The End?]
+[00:04:06] [Server thread/INFO]: Qirell lost connection: Disconnected
+[00:04:06] [Server thread/INFO]: Qirell <The End> left the game
+[00:04:12] [Netty Epoll Server IO #0/INFO]: [STDOUT]: {"pandalib:pandalib_config#debugging.0": false, "pandalib:pandalib_config#configHotReloadDelay.1": 1000, "pandalib:pandalib_config#enableConfigHotReload.2": false}
+[00:04:12] [Netty Epoll Server IO #0/INFO]: [STDOUT]: {"fallingtrees:client#miningShould.0": CHOP_TREE, "fallingtrees:client#miningWhileCrouchingShould.1": MINE_SINGLE_BLOCK}
+[00:04:16] [Server thread/INFO]: Qirell[/127.230.107.69:39465] logged in with entity id 20615 at (50.72788376158936, 58.0, 8.686136421233185)
+[00:04:16] [Server thread/INFO]: Qirell <The End> joined the game
+[00:04:39] [Server thread/INFO]: [Qirell <The End>: Gave 1 [Bow] to SR_PYCHON <The End>]
+[00:04:43] [Server thread/INFO]: [Qirell <The End>: Gave 64 [Arrow] to SR_PYCHON <The End>]
+[00:04:43] [Server thread/INFO]: SR_PYCHON <The End> has made the advancement [Monster Hunter]
+[00:04:44] [Server thread/INFO]: [Qirell <The End>: Gave 64 [Arrow] to SR_PYCHON <The End>]
+[00:04:57] [Server thread/INFO]: [Qirell <The End>: Gave 1 [Bow] to Whoami_02 <The End>]
+[00:05:01] [Server thread/INFO]: [Qirell <The End>: Gave 64 [Arrow] to Whoami_02 <The End>]
+[00:05:02] [Server thread/INFO]: [Qirell <The End>: Gave 64 [Arrow] to Whoami_02 <The End>]
+[00:05:28] [Server thread/INFO]: SR_PYCHON <The End> has reached the goal [Postmortal]
+[00:06:38] [Server thread/INFO]: [Qirell <The End>: Gave 64 [Ender Pearl] to Whoami_02 <The End>]
+[00:06:44] [Server thread/INFO]: [Qirell <The End>: Gave 64 [Ender Pearl] to SR_PYCHON <The End>]
+[00:08:06] [Server thread/INFO]: SR_PYCHON <The End> has made the advancement [Take Aim]
+[00:09:07] [Server thread/INFO]: SR_PYCHON <The End> has made the advancement [Blood?]
+[00:10:14] [Server thread/INFO]: SR_PYCHON <The End> has made the advancement [Acquire Hardware]
+[00:12:54] [Server thread/INFO]: [Qirell <The End>: Gave 5 [Totem of Undying] to SR_PYCHON <The End>]
+[00:13:12] [Server thread/INFO]: Qirell <The End> has made the advancement [Window to another realm]
+[00:14:35] [Server thread/INFO]: Qirell <The End> has made the advancement [Wax Off]
+[00:14:36] [Server thread/INFO]: Qirell <The End> has made the advancement [Cosmic Fury]
+[00:14:36] [Server thread/INFO]: SR_PYCHON <The End> has completed the challenge [Almost, but no!]
+[00:16:44] [Server thread/INFO]: Qirell <The End> has made the advancement [Ice Cubed]
+[00:16:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4607ms or 92 ticks behind
+[00:16:48] [Server thread/WARN]: Whoami_02 moved too quickly! 6.674134542483211,-1.9031272476744903,-7.418264168965246
+[00:17:20] [Server thread/INFO]: Qirell <The End> has made the advancement [NOT THE BEES!]
+[00:19:12] [Server thread/INFO]: SR_PYCHON <The End> has made the advancement [Free the End]
+[00:19:12] [Server thread/INFO]: Whoami_02 <The End> has made the advancement [Free the End]
+[00:19:12] [Server thread/INFO]: Qirell <The End> has made the advancement [Free the End]
+[00:19:20] [Server thread/INFO]: Whoami_02 <The End> has made the advancement [Not Too Hot to Handle]
+[00:20:19] [Server thread/INFO]: Qirell <The End> has made the advancement [Weather Controller]
+[00:20:20] [Server thread/INFO]: Qirell <The End> has made the advancement [Spectral Fury]
+[00:20:20] [Server thread/INFO]: Can't respawn SR_PYCHON in minecraft:the_end
+[00:20:20] [Server thread/INFO]: SR_PYCHON <The End> was slain by Whoami_02 <The End>
+[00:20:21] [Server thread/ERROR]: Tried to load invalid item: 'No key value in MapLike[{name:"textures",signature:"vanilla_refresh_death_head"}] missed input: {"minecraft:profile":{id:[I;2054550588,-1557843878,-1626236452,1329564309],name:"SR_PYCHON",properties:[{name:"textures",signature:"vanilla_refresh_death_head"}]}}'
+[00:20:30] [Server thread/INFO]: Whoami_02 <The End> has made the advancement [Weather Controller]
+[00:20:40] [Server thread/INFO]: [Qirell <The End>: Teleported SR_PYCHON <The End> to Qirell <The End>]
+[00:20:46] [Server thread/INFO]: [Qirell <The End>: Teleported SR_PYCHON <The End> to Qirell <The End>]
+[00:20:55] [Server thread/INFO]: Updating the respawn location of player SR_PYCHON to [NONE]
+[00:20:55] [Server thread/INFO]: Updating the respawn location of player SR_PYCHON to [NONE]
+[00:21:00] [Server thread/INFO]: [Qirell <The End>: Teleported SR_PYCHON <The End> to Qirell <The End>]
+[00:21:17] [Server thread/INFO]: SR_PYCHON <The End> has made the advancement [Cosmic Fury]
+[00:21:31] [Server thread/INFO]: Can't respawn SR_PYCHON in minecraft:the_end
+[00:21:31] [Server thread/INFO]: SR_PYCHON <The End> was slain by Whoami_02 <The End>
+[00:21:31] [Server thread/ERROR]: Tried to load invalid item: 'No key value in MapLike[{name:"textures",signature:"vanilla_refresh_death_head"}] missed input: {"minecraft:profile":{id:[I;2054550588,-1557843878,-1626236452,1329564309],name:"SR_PYCHON",properties:[{name:"textures",signature:"vanilla_refresh_death_head"}]}}'
+[00:21:32] [Server thread/INFO]: Updating the respawn location of player SR_PYCHON to [NONE]
+[00:21:32] [Server thread/INFO]: Updating the respawn location of player SR_PYCHON to [NONE]
+[00:21:35] [Server thread/INFO]: [Qirell <The End>: Teleported SR_PYCHON <The End> to Qirell <The End>]
+[00:22:57] [Server thread/INFO]: Qirell <The End> has made the advancement [Weather Warning]
+[00:23:22] [Server thread/INFO]: Whoami_02 <The End> has made the advancement [Window to another realm]
+[00:24:49] [Server thread/INFO]: Can't respawn SR_PYCHON in minecraft:the_end
+[00:24:49] [Server thread/INFO]: SR_PYCHON <The End> was slain by Inquisitor
+[00:24:50] [Server thread/INFO]: Updating the respawn location of player SR_PYCHON to [NONE]
+[00:24:50] [Server thread/INFO]: Updating the respawn location of player SR_PYCHON to [NONE]
+[00:24:54] [Server thread/INFO]: [Qirell <The End>: Teleported SR_PYCHON <The End> to Qirell <The End>]
+[00:25:14] [Server thread/INFO]: Whoami_02 <The End> has made the advancement [Voluntary Exile]
+[00:26:34] [Server thread/INFO]: Can't respawn SR_PYCHON in minecraft:the_end
+[00:26:34] [Server thread/INFO]: SR_PYCHON <The End> was slain by Enderman
+[00:26:34] [Server thread/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[00:26:34] [Server thread/ERROR]: Combo count: 6 is dual wielding: false
+[00:26:34] [Server thread/ERROR]: Main-hand stack: 0 minecraft:air
+[00:26:34] [Server thread/ERROR]: Off-hand stack: 0 minecraft:air
+[00:26:34] [Server thread/ERROR]: Selected slot server: 3 | client: 3
+[00:26:35] [Server thread/INFO]: Updating the respawn location of player SR_PYCHON to [NONE]
+[00:26:35] [Server thread/INFO]: Updating the respawn location of player SR_PYCHON to [NONE]
+[00:26:37] [Server thread/INFO]: [Qirell <The End>: Teleported SR_PYCHON <The End> to Qirell <The End>]
